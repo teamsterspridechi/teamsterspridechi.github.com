@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Calendar"
 permalink: /calendar/
+---
 
 Upcoming meetings:
 Sun Aug 21st
