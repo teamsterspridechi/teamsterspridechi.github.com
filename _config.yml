@@ -10,7 +10,7 @@ twitter_username: teamsterspridechi
 github_username: teamsterspridechi
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 plugins:
   - jekyll-feed
 
